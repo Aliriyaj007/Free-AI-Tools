@@ -122,6 +122,7 @@
 | 18 | N8N Video | [n8n.io](https://n8n.io) | Automation video workflows. Devs  [youtube](https://www.youtube.com/watch?v=dfvWIH1fUoc). |
 | 19 | Goblin Tools Video | [goblin.tools](https://goblin.tools) | Task to video. Productivity  [youtube](https://www.youtube.com/watch?v=dfvWIH1fUoc). |
 | 20 | Headline CoSchedule | [headlines.coschedule.com](https://headlines.coschedule.com) | Marketing video titles to clips. Marketers  [youtube](https://www.youtube.com/watch?v=dfvWIH1fUoc). |
+| 21 | ImagineClip | [imagineclip.com](https://imagineclip.com) | AI video generator for avatar clips, stylized scenes, and social-ready videos. |
 
 ## Audio & Voice AI
 | S.No | Tool Name | Website URL | Description |
