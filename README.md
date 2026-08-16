@@ -362,6 +362,7 @@
 | 18 | Airflow Free | [airflow.apache.org](https://airflow.apache.org) | DAGs data. Pipelines. |
 | 19 | Prefect Free | [prefect.io](https://prefect.io) | Workflows cloud. Modern. |
 | 20 | Dagster Free | [dagster.io](https://dagster.io) | Assets pipelines. Data. |
+| 21 | Agent QA | [github.com/vostride/agent-qa](https://github.com/vostride/agent-qa) | Free CLI package for AI-assisted browser QA; configured model providers may charge for usage. Developers and QA teams. |
 
 ## No-code / Low-code
 | S.No | Tool Name | Website URL | Description |
