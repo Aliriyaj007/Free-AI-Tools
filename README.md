@@ -314,6 +314,7 @@
 | 18 | Loopcv Free | [loopcv.pro](https://loopcv.pro) | Autofill apps. Volume. |
 | 19 | Simplify Free | [simplify.jobs](https://simplify.jobs) | One-click apply. Easy. |
 | 20 | Intervue Free | [intervue.io](https://intervue.io) | Mock interviews AI. Prep. |
+| 21 | ResumeAI Free | [withresumeai.com](https://withresumeai.com/) | Free ATS checker (3/day anon, 10/day free account) + AI resume builder; State of ATS 2026 (738 employers, Workday 37.9%). |
 
 ## Research & Writing
 | S.No | Tool Name | Website URL | Description |
