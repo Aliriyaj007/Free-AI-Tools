@@ -698,6 +698,7 @@
 | 18 | Rosegarden | [rosegardenmusic.com](https://rosegardenmusic.com) | Notation seq. MIDI. |
 | 19 | Qtractor | [qtractor.sourceforge.io](https://qtractor.sourceforge.io) | JACK audio. Linux. |
 | 20 | Mixxx | [mixxx.org](https://mixxx.org) | DJ mixer. Live. |
+| 21 | QuietTake Noise Remover | [noiseremover.site](https://noiseremover.site) | Free browser RNNoise speech noise reduction with local processing, original/cleaned playback, and WAV export. Each file must be 50 MB or smaller and five minutes or shorter. No account or audio upload. |
 
 ## Text-to-Speech
 | S.No | Tool Name | Website URL | Description |
