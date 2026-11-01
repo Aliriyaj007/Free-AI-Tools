@@ -530,6 +530,7 @@
 | 18 | CrewAI | [crewai.com](https://crewai.com) | Multi-agent. Teams. |
 | 19 | Flowise | [flowiseai.com](https://flowiseai.com) | No code LLM. Visual. |
 | 20 | n8n Open | [n8n.io](https://n8n.io) | Workflow open. Biz  [youtube](https://www.youtube.com/watch?v=dfvWIH1fUoc). |
+| 21 | Orkas | [orkas.ai](https://orkas.ai/?source=gh_alifreetools&lang=en) | Local-first, MIT-licensed desktop AI team for reports, slides and media; core app free, model usage and optional services may cost extra. |
 
 ## Music Generation
 | S.No | Tool Name | Website URL | Description |
